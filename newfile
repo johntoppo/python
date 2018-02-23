@@ -1,0 +1,7 @@
+total 16
+-rw-r--r-- 1 john john   42 Feb 14 10:13 abc.txt
+drwxr-xr-x 2 root root 4096 Feb 11 12:27 john
+-rw-r--r-- 1 john john    0 Feb 14 10:47 newfile
+-rw-rw-r-- 1 john john   33 Feb 14 10:02 s.txt
+lrwxrwxrwx 1 john john    8 Feb 10 15:35 test2.php -> test.php
+-rw-r--r-- 1 john john 1119 Feb 10 16:06 test.php
